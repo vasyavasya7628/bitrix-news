@@ -1,0 +1,1 @@
+<p><a class="site-footer__email" href="mailto:apparat-op@yanao.ru">apparat-op@yanao.ru</a></p>

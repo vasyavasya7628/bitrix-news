@@ -1,0 +1,1 @@
+<p><a class="site-footer__phone" href="tel:+73492230661">+7 (34922) 3-06-61</a></p>

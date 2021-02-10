@@ -1,0 +1,2 @@
+SET NAMES 'utf8';
+ALTER DATABASE `<DATABASE>` COLLATE utf8_unicode_ci;

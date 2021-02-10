@@ -1,0 +1,15 @@
+div[id^="wait_comp_"] {
+	display: none;
+}
+
+.base-textarea--middle {
+	overflow: auto!important;
+}
+
+input.error {
+	border-color: red;
+}
+
+.gratitude-block {
+	left: 0;
+}
